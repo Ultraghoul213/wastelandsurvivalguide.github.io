@@ -51,7 +51,7 @@ Main Files:
 - [Uncut Extra Collection](https://www.nexusmods.com/newvegas/mods/79005)
 - Main File - [Functional Post Game Ending - Uncut Wasteland & Extra Collection Patch](https://www.nexusmods.com/newvegas/mods/79005)
 
-### [Washington's Malevolence TTW](https://www.nexusmods.com/newvegas/mods/75027)
+### [Washington's Malevolence TTW](https://www.nexusmods.com/newvegas/mods/75027) - Currently hidden
 
 A huge quest mod where the Lone Wanderer travels to the fictional Maddox Island in search of the Rocky Cape Bank, a pre-War bank that is said to contain untold riches.
 
